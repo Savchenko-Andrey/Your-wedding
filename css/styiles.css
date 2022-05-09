@@ -1,0 +1,35 @@
+body {
+    font-family: Raleway ,sans-serif ;
+
+    max-width: 1615px;
+    max-height: 3643px;
+    margin-right: auto;
+    margin-left: auto;
+    /* background-color: var(--background-color); */
+    background-image:
+    url(../images/фон.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+} 
+
+.header {
+
+}
+
+.hero {
+    margin-top: 130;
+    background: rgba(240, 233, 249, 1);
+}
+    
+
+    
